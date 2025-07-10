@@ -279,7 +279,7 @@ def plot_hourly_ozone_data(hourly_data):
 
 # Function parameter initialization
 sensor_id = '7'  # O3 sensor, device Hipodromo
-token = '1c5e12e8f00c9f2cbb4c7c8f07c9d398'  # Your working token
+token = ''  # Your working token
 hours = 48  # Fetch the last 48 complete hours
 
 # Fetch air quality data and compute hourly averages.
